@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    padding: 20px;
+}
+h1, h2, h3, h4 {
+    padding: 5px;
+}
+h1 {
+    color: #ff6347;
+}
+h2 {
+    color: #4682b4;
+}
+pre {
+    background-color: #e6e6fa;
+    border: 1px solid #ddd;
+    padding: 10px;
+    overflow: auto;
+    white-space: pre-wrap;
+}
+.section {
+    margin-bottom: 20px;
+}
